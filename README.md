@@ -5,7 +5,11 @@ Dépendance
 Tracklist depends Des commandes
 
 sudo apt update
+
 sudo apt install chromium firefox curl -y
-git clone https://github.com/ECHATS99/Trackrlist.git 
-chmod +x trackrlist.sh
-./trackrlist.sh
+
+git clone https://github.com/ECHATS99/Trackrlist.git
+
+chmod +x tracklist.sh
+
+./tracklist.sh
